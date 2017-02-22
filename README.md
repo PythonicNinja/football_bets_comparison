@@ -6,11 +6,13 @@ Footbal bets Comparison is application which help you to
 compare bets from diffrent bookmaker.
 <br>
 <br>
+
 <h4>Functional Requirements</h4>
 <ul>
 <li>App is installable through Python package manager (PIP)</li>
 <li>checking everyday bets from bookmakers side</li>
 <li>save bets and compare them</li>
+</ul>
   
   <h4>User should be allowed to change</h4>
 <ul>
