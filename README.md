@@ -1,39 +1,32 @@
 # Footbal bets Comparison
-<h3>Quick Intro</h3>
+## Quick Intro
 
-Footbal bets Comparison is application which help you to 
+Football bets Comparison is application which help you to 
 
-compare bets from diffrent bookmaker.
-<br>
-<br>
+compare bets from diffrent bookmakers.
 
-<h4>Functional Requirements</h4>
-<ul>
-<li>App is installable through Python package manager (PIP)</li>
-<li>checking everyday bets from bookmakers side</li>
-<li>save bets and compare them</li>
-</ul>
+## Functional Requirements 
+
+* App is installable through Python package manager (PIP)
+* checking everyday bets from bookmakers side
+* save bets and compare them
   
-  <h4>User should be allowed to change</h4>
-<ul>
-  <li>number of bets</li>
-  <li>bookmakers</li>
-  <li>amount</li>
-</ul>  
+## User should be allowed to change
+
+* number of bets
+* bookmakers
+* amount
 
 
-<h4>Technical requirements</h4>
-<ul>
-  <li>App needs to be connected to the internet </li>
-  <li>App has to contain functional test suit.</li>
-</ul>  
+## Technical requirements
 
+* App needs to be connected to the internet 
+* App has to contain functional test suit. 
 
+## Expansion Intentions
 
-<h4>Expansion Intentions</h4>
-<ul>
-  <li>nuser can make own account</li>
-  <li> user can save his bets</li>
-  <li>deploy with django</li>
-</ul>  
+* user can make own account
+* user can save his bets
+* deploy with django
+  
     
