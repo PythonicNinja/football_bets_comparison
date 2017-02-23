@@ -28,5 +28,23 @@ compare bets from diffrent bookmakers.
 * user can make own account
 * user can save his bets
 * deploy with django
+
+
+
+# Examples
+
+> bets "barcelona-real" 
+1) basketball [10]
+2) footbal    [20]
+2
+1) 1X2
+2) wynik
+1
++-----------------+-----------------+
+| bwin            | betathome       |
++-----------------+-----------------+
+| 1.7 | 1.4 | 2.4 | 1.7 | 1.4 | 2.4 | 
++-----------------+-----------------+
+
   
     
