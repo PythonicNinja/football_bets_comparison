@@ -32,7 +32,7 @@ compare bets from diffrent bookmakers.
 
 
 # Examples
-
+```
 > bets "barcelona-real" 
 1) basketball [10]
 2) footbal    [20]
@@ -45,6 +45,6 @@ compare bets from diffrent bookmakers.
 +-----------------+-----------------+
 | 1.7 | 1.4 | 2.4 | 1.7 | 1.4 | 2.4 | 
 +-----------------+-----------------+
-
+```
   
     
